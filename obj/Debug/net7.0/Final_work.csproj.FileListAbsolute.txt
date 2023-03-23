@@ -1,0 +1,15 @@
+/Users/mymacbook/Desktop/GB/Final_work/obj/Debug/net7.0/Final_work.csproj.AssemblyReference.cache
+/Users/mymacbook/Desktop/GB/Final_work/obj/Debug/net7.0/Final_work.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mymacbook/Desktop/GB/Final_work/obj/Debug/net7.0/Final_work.AssemblyInfoInputs.cache
+/Users/mymacbook/Desktop/GB/Final_work/obj/Debug/net7.0/Final_work.AssemblyInfo.cs
+/Users/mymacbook/Desktop/GB/Final_work/obj/Debug/net7.0/Final_work.csproj.CoreCompileInputs.cache
+/Users/mymacbook/Desktop/GB/Final_work/bin/Debug/net7.0/Final_work
+/Users/mymacbook/Desktop/GB/Final_work/bin/Debug/net7.0/Final_work.deps.json
+/Users/mymacbook/Desktop/GB/Final_work/bin/Debug/net7.0/Final_work.runtimeconfig.json
+/Users/mymacbook/Desktop/GB/Final_work/bin/Debug/net7.0/Final_work.dll
+/Users/mymacbook/Desktop/GB/Final_work/bin/Debug/net7.0/Final_work.pdb
+/Users/mymacbook/Desktop/GB/Final_work/obj/Debug/net7.0/Final_work.dll
+/Users/mymacbook/Desktop/GB/Final_work/obj/Debug/net7.0/refint/Final_work.dll
+/Users/mymacbook/Desktop/GB/Final_work/obj/Debug/net7.0/Final_work.pdb
+/Users/mymacbook/Desktop/GB/Final_work/obj/Debug/net7.0/Final_work.genruntimeconfig.cache
+/Users/mymacbook/Desktop/GB/Final_work/obj/Debug/net7.0/ref/Final_work.dll
